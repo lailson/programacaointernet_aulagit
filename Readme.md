@@ -1,1 +1,2 @@
-Esse é o meu primeiro arquivo 
+Esse é o meu primeiro arquivo e estou utilizando o :
+GIT 
